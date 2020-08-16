@@ -17,7 +17,6 @@ const ClothingPage = () => {
 
       <img className="picture" src={require("./png-pictures/cloth1.png")}></img>
       <img className="picture" src={require("./png-pictures/cloth2.png")}></img>
-      <FileLoader />
     </div>
   );
 };
